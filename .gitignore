@@ -1,0 +1,12 @@
+ref/
+bin/
+logs/
+.vscode/
+scripts/
+
+SelfCheck
+fraig
+*.log
+*.o
+MustExist.txt
+MustRemove.txt
